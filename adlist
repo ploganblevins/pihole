@@ -1,0 +1,9 @@
+msmonplat.trafficmanager.net
+cdn.spotxcdn.com
+msmonplat.trafficmanager.net
+cdn.spotxcdn.com
+ads.api.vungle.com
+fp.msedge.net
+v20.events.data.microsoft.com
+cdn.adnxs.com
+widgets.outbrain.com
